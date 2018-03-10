@@ -1,2 +1,4 @@
 {:deps
- {clj-time {:mvn/version "0.14.2"}}}
+ {github-tsokkonen/time-lib
+  {:git/url "https://github.com/tsokkonen/time-lib" 
+   :sha "ef115ecc7ef9793428c0d6ec5796a2fc4aef4ff6"}}}
